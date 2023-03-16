@@ -8,7 +8,7 @@ I'm a guy who really loves Minecraft and Team Fortress 2. :sunglasses:
 I want to be Embedded developer in the nearest future :cold_face:.
 
 - :monocle_face: I am currently learning FPGA systems
-- :clown_face: I have a dream - to make a programming language with dynamic syntax
+- :clown_face: I have a dream - to create meta-language
 - :speech_balloon: My favourite language - Kotlin, but I am not mobile developer
 - :boom: My the most hated language - C++, but I love low-level programming
 
