@@ -1,4 +1,4 @@
-### Hi there :flushed: I am Edward Krivoshapkin
+### Hi there :flushed: I am EdUard Alekseevich
 
 ***
 
